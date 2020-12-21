@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Model.deps.json
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Model.runtimeconfig.json
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Model.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Model.dll
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Model.pdb
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Core.dll
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\bin\Debug\netcoreapp3.1\TrCrexDeneme.Core.pdb
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.csproj.CopyComplete
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.dll
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.pdb
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\TrCrexDeneme\TrCrexDeneme.Model\obj\Debug\netcoreapp3.1\TrCrexDeneme.Model.csproj.CoreCompileInputs.cache

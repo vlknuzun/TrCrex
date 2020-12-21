@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="3.1.7" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Controllers\" />
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Admin\Views\" />
+    <Folder Include="Areas\Member\Controllers\" />
+    <Folder Include="Areas\Member\Data\" />
+    <Folder Include="Areas\Member\Models\" />
+    <Folder Include="Areas\Member\Views\" />
+    <Folder Include="wwwroot\lib\Bootstrap\" />
+    <Folder Include="wwwroot\lib\Jquery\" />
+    <Folder Include="wwwroot\lib\Trcrexui\.git\branches\" />
+    <Folder Include="wwwroot\lib\Trcrexui\.git\objects\info\" />
+    <Folder Include="wwwroot\lib\Trcrexui\.git\refs\tags\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\Trcrexui\.git\COMMIT_EDITMSG" />
+    <None Include="wwwroot\lib\Trcrexui\.git\config" />
+    <None Include="wwwroot\lib\Trcrexui\.git\description" />
+    <None Include="wwwroot\lib\Trcrexui\.git\FETCH_HEAD" />
+    <None Include="wwwroot\lib\Trcrexui\.git\HEAD" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\applypatch-msg.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\commit-msg.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\post-update.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\pre-applypatch.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\pre-commit.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\pre-push.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\pre-rebase.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\pre-receive.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\hooks\update.sample" />
+    <None Include="wwwroot\lib\Trcrexui\.git\index" />
+    <None Include="wwwroot\lib\Trcrexui\.git\info\exclude" />
+    <None Include="wwwroot\lib\Trcrexui\.git\logs\HEAD" />
+    <None Include="wwwroot\lib\Trcrexui\.git\logs\refs\heads\dev" />
+    <None Include="wwwroot\lib\Trcrexui\.git\logs\refs\remotes\origin\dev" />
+    <None Include="wwwroot\lib\Trcrexui\.git\logs\refs\remotes\origin\master" />
+    <None Include="wwwroot\lib\Trcrexui\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904" />
+    <None Include="wwwroot\lib\Trcrexui\.git\objects\pack\pack-394d0504392e50634128e2130681ecf21b210a2b.idx" />
+    <None Include="wwwroot\lib\Trcrexui\.git\objects\pack\pack-394d0504392e50634128e2130681ecf21b210a2b.pack" />
+    <None Include="wwwroot\lib\Trcrexui\.git\refs\heads\dev" />
+    <None Include="wwwroot\lib\Trcrexui\.git\refs\remotes\origin\dev" />
+    <None Include="wwwroot\lib\Trcrexui\.git\refs\remotes\origin\master" />
+  </ItemGroup>
+
+</Project>
